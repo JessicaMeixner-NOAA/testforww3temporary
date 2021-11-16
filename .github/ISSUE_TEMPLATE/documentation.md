@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-**Describe the section in the documentation that is missing or requires an update?**
+<!-- Describe the section in the documentation that is missing or requires an update? --> 
 
 

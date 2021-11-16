@@ -30,7 +30,7 @@ Please provide a short summary of this PR, which will be used during _Squash and
 <!-- After creating the PR you can check each of the items below that have been completed -->
 
 - [ ] Branch is up to date with the authoritative repository (NOAA-EMC) develop branch. 
-- [ ] Checked the [checklist for a developer submitting to develop](https://github.com/NOAA-EMC/WW3/wiki/Code-Management#checklist-for-a-developer-submitting-to-develop) 
+- [ ] Checked the [checklist for a developer submitting to develop](https://github.com/NOAA-EMC/WW3/wiki/Code-Management#checklist-for-a-developer-submitting-to-develop). 
 - [ ] If a version number update is required, checked the [updating version number](https://github.com/NOAA-EMC/WW3/wiki/Code-Management#checklist-for-updating-version-number) checklist. 
 - [ ] If a new feature was added, a regression test for testing the new feature is added. 
  
