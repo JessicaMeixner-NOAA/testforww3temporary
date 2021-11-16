@@ -1,6 +1,6 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Q&A
+  - name: Q&A about using WW3
     url: https://github.com/NOAA-EMC/WW3/discussions/categories/q-a
     about: Ask the community for help
   - name: General
