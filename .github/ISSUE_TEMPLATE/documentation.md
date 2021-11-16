@@ -1,6 +1,6 @@
 ---
-name: Documentation request/update
-about: Add new section in the documentation or report a type/mistake in the documentation
+name: Documentation 
+about: Any issues in documentation including reporting a typo/mistake in the documentation or a missing section. 
 title: ''
 labels: 'documentation'
 assignees: ''
@@ -9,7 +9,4 @@ assignees: ''
 
 **Describe the section in the documentation that is missing or requires an update?**
 
-**Report a bug/typo in the documentation**
-
-**Link the issue(s) associated with this documentation update**
 
